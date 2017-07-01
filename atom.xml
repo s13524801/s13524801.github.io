@@ -4,9 +4,9 @@
   <subtitle>学习记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://simpeng.com/"/>
   <updated>2017-06-30T08:14:23.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://simpeng.com/</id>
   
   <author>
     <name>孙鹏</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/06/30/hello-world/"/>
-    <id>http://yoursite.com/2017/06/30/hello-world/</id>
+    <link href="http://simpeng.com/2017/06/30/hello-world/"/>
+    <id>http://simpeng.com/2017/06/30/hello-world/</id>
     <published>2017-06-30T08:14:23.000Z</published>
     <updated>2017-06-30T08:14:23.000Z</updated>
     
